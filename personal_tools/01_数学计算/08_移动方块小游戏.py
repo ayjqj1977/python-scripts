@@ -1,0 +1,12 @@
+import turtle
+a=turtle.Turtle()
+a.penup()
+a.pensize(5)
+a.speed(8)
+a.goto(-50,0)
+a.pendown()
+a.goto(50,0)
+a.goto(50,-100)
+a.goto(-50,-100)
+a.goto(-50,0)
+turtle.done()
