@@ -1,6 +1,6 @@
 import turtle
 a=turtle.Turtle()
-turtle.title("贾庆军的小作品")
+turtle.title("姓名三角生成")
 turtle.colormode(255)
 turtle.bgcolor(0,255,0)
 a.begin_fill()
